@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(242, 250, 222);
+    color: #333;
+    margin: 20px;
+}
+h1 {
+    color: #d9534f;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+.ingredient, .step {
+    margin: 10px 0;
+}
